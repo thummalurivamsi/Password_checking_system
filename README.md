@@ -38,3 +38,7 @@ This project demonstrates a **password-protected door lock system** built using 
 - 8051 Development Board
 
 ![password_checker_output](https://github.com/user-attachments/assets/29ffcaf9-10c9-4f94-bed3-9084adb205df)
+
+👨‍💻 Developed By
+Vamsi T Graduate Engineer (ECE) 
+vamsithummaluri@gmail.com
